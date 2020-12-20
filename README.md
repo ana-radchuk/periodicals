@@ -4,3 +4,5 @@ Lesson 1. Розробка проекту (Domain, Dao): [Branch 1](https://gith
 
 Lesson 2. Login/Registration Form: [Branch 2](https://github.com/ana-radchuk/periodicals/tree/2-login/registrationForm)
 
+Lesson 3. Створення та виведення періодичних видань: [Branch 3](https://github.com/ana-radchuk/periodicals/tree/3---СтворенняТаВиведенняПеріодичнихВидань)
+
