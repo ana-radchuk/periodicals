@@ -6,3 +6,6 @@ Lesson 2. Login/Registration Form: [Branch 2](https://github.com/ana-radchuk/per
 
 Lesson 3. Створення та виведення періодичних видань: [Branch 3](https://github.com/ana-radchuk/periodicals/tree/3---СтворенняТаВиведенняПеріодичнихВидань)
 
+Lesson 4. Bucket and Image Upload [Branch 4](https://github.com/ana-radchuk/periodicals/tree/4-bucket-imageUpload)
+
+
