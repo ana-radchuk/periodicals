@@ -10,5 +10,5 @@ Lesson 4. Bucket and Image Upload [Branch 4](https://github.com/ana-radchuk/peri
 
 Lesson5. Logging, Role Access, UI [Branch 5](https://github.com/ana-radchuk/periodicals/tree/5-logging-roleAccess-UI)
 
-
+Lesson 6. i18n [Branch 6](https://github.com/ana-radchuk/periodicals/tree/6-i18n)
 
